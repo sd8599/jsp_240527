@@ -1,0 +1,11 @@
+bin : 실행파일
+conf : 환경파일
+logs : 로그
+webapps : jsp, java
+lib : 톰캣관련 라이브러리(db연동)
+
+http://localhost:8080
+C:\Tomcat 9.0\webapps\ROOT
+index -> 홈페이지
+
+http://localhost:8080/helloWorld.jsp

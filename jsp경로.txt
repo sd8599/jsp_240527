@@ -1,4 +1,28 @@
+servlet_240527
+
+package - dy...web
+class->package이름,class이름 치기
+
 https://github.com/sd8599/jsp_240527.git
 
 
 jsp github경로
+
+
+push - commit - staging=>add(모든 파일 .)
+
+
+git config --global user.email "sd8599@naver.com"
+
+git config --global user.name "gpdud8599" => 안됨
+
+git push --set-upstream origin master
+
+
+http://localhost:8181/servlet_240527/HelloWorld3
+http://localhost:8181/QueryString
+
+
+*html 파일 만들때 
+=> 프로젝트파일생성에서 html치고 생성
+=>webapp에 생성해도됨
